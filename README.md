@@ -30,12 +30,14 @@ Posteriormente se hicieron consultas SQL para responder preguntas como:
 * ¿Qué categorías registran mayores ventas?
 * ¿Existe una relación entre visibilidad e interés?
 
+
 2. CRUCE DE INFORMACION: Una vez analizados los datos por separado, se integraron las métricas de marketing con los resultados de ventas.
 Se construyeron indicadores comparativos para evaluar:
 * Alcance vs. clics
 * Clics vs. ventas
 * Conversión relativa entre categorías
 * Consistencia de desempeño entre marketing y resultados comerciales
+
 
 3. VISUALIZACION: Los resultados fueron modelados en POWER BI mediante dashboards orientados a comparar:
 * Rendimiento de categorías.
@@ -53,8 +55,10 @@ A) NO EXISTE UNA UNICA CATEGORIA LIDER (Sales Analytics.png): Cada categoría mo
 * Remeras lideraron en volumen de unidades vendidas.
 Esto demuestra que evaluar una única métrica puede llevar a conclusiones incompletas.
 
+
 B) LA VISIBILIDAD NO GARANTIZA RESULTADOS (engagement.png): Se identificaron categorías con alto alcance pero menor capacidad para generar interacción o ventas.
 Del mismo modo, algunas categorías con menor exposición obtuvieron mejores resultados relativos.
+
 
 C) EL INTERES NO SIEPRE SE CONVIERTE EN VENTAS (clicks.png): La comparación entre clics y ventas mostró que generar interés es solo una parte del proceso.
 Factores como precio, producto, contexto comercial o intención de compra también influyen en el resultado final.
