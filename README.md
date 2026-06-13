@@ -23,7 +23,7 @@ HERRAMIENTAS UTILIZADAS
 PROCESO DEL ANALISIS
 
 1. EXPLORACION INICIAL:
-Se realizó una limpieza y validación para asegurar consistencia entre las fuentes.
+   Se realizó una limpieza y validación para asegurar consistencia entre las fuentes.
 Posteriormente se hicieron consultas SQL para responder preguntas como:
 * ¿Qué categorías tienen mayor alcance?
 * ¿Qué categorías generan más clics?
