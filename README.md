@@ -1,6 +1,6 @@
 MARKETING & SALES ANALYTICS PARA RETAIL
-
 OBJETIVO
+
 Analizar la relación entre la visibilidad de productos en redes sociales, el interés generado por los usuarios y el comportamiento de ventas, con el fin de identificar oportunidades de mejora en la estrategia comercial y de contenidos.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
