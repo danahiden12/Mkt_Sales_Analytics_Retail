@@ -23,16 +23,14 @@ HERRAMIENTAS UTILIZADAS
 
 PROCESO DEL ANALISIS
 
-1. EXPLORACION INICIAL: Se realizó una limpieza y validación para asegurar consistencia entre las fuentes.
-Posteriormente se hicieron consultas SQL para responder preguntas como:
+1. EXPLORACION INICIAL: Se realizó una limpieza y validación para asegurar consistencia entre las fuentes. Posteriormente se hicieron consultas SQL para responder preguntas como:
 * ¿Qué categorías tienen mayor alcance?
 * ¿Qué categorías generan más clics?
 * ¿Qué categorías registran mayores ventas?
 * ¿Existe una relación entre visibilidad e interés?
 
 
-2. CRUCE DE INFORMACION: Una vez analizados los datos por separado, se integraron las métricas de marketing con los resultados de ventas.
-Se construyeron indicadores comparativos para evaluar:
+2. CRUCE DE INFORMACION: Una vez analizados los datos por separado, se integraron las métricas de marketing con los resultados de ventas. Se construyeron indicadores comparativos para evaluar:
 * Alcance vs. clics
 * Clics vs. ventas
 * Conversión relativa entre categorías
