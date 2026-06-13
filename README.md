@@ -22,24 +22,21 @@ HERRAMIENTAS UTILIZADAS
 
 PROCESO DEL ANALISIS
 
-1. EXPLORACION INICIAL:
-   Se realizó una limpieza y validación para asegurar consistencia entre las fuentes.
+1. EXPLORACION INICIAL: Se realizó una limpieza y validación para asegurar consistencia entre las fuentes.
 Posteriormente se hicieron consultas SQL para responder preguntas como:
 * ¿Qué categorías tienen mayor alcance?
 * ¿Qué categorías generan más clics?
 * ¿Qué categorías registran mayores ventas?
 * ¿Existe una relación entre visibilidad e interés?
 
-2. CRUCE DE INFORMACION:
-Una vez analizados los datos por separado, se integraron las métricas de marketing con los resultados de ventas.
+2. CRUCE DE INFORMACION: Una vez analizados los datos por separado, se integraron las métricas de marketing con los resultados de ventas.
 Se construyeron indicadores comparativos para evaluar:
 * Alcance vs. clics
 * Clics vs. ventas
 * Conversión relativa entre categorías
 * Consistencia de desempeño entre marketing y resultados comerciales
 
-3. VISUALIZACION:
-Los resultados fueron modelados en POWER BI mediante dashboards orientados a comparar:
+3. VISUALIZACION: Los resultados fueron modelados en POWER BI mediante dashboards orientados a comparar:
 * Rendimiento de categorías.
 * Comportamiento de usuarios.
 * Relación entre exposición e intención de compra.
@@ -49,19 +46,16 @@ Los resultados fueron modelados en POWER BI mediante dashboards orientados a com
 
 PRINCIPALES HALLAZGOS
 
-A) NO EXISTE UNA UNICA CATEGORIA LIDER (Sales Analytics.png).
-Cada categoría mostró fortalezas diferentes según la métrica analizada. Por ejemplo:
+A) NO EXISTE UNA UNICA CATEGORIA LIDER (Sales Analytics.png): Cada categoría mostró fortalezas diferentes según la métrica analizada. Por ejemplo:
 * Conjuntos deportivos presentaron un mejor desempeño relativo en conversión.
 * Abrigos destacaron por su nivel de facturación.
 * Remeras lideraron en volumen de unidades vendidas.
 Esto demuestra que evaluar una única métrica puede llevar a conclusiones incompletas.
 
-B) LA VISIBILIDAD NO GARANTIZA RESULTADOS (engagement.png).
-Se identificaron categorías con alto alcance pero menor capacidad para generar interacción o ventas.
+B) LA VISIBILIDAD NO GARANTIZA RESULTADOS (engagement.png): Se identificaron categorías con alto alcance pero menor capacidad para generar interacción o ventas.
 Del mismo modo, algunas categorías con menor exposición obtuvieron mejores resultados relativos.
 
-C) EL INTERES NO SIEPRE SE CONVIERTE EN VENTAS (clicks.png).
-La comparación entre clics y ventas mostró que generar interés es solo una parte del proceso.
+C) EL INTERES NO SIEPRE SE CONVIERTE EN VENTAS (clicks.png): La comparación entre clics y ventas mostró que generar interés es solo una parte del proceso.
 Factores como precio, producto, contexto comercial o intención de compra también influyen en el resultado final.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -75,6 +69,7 @@ Este enfoque permite responder preguntas de negocio más relevantes y tomar deci
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 PROXIMOS PASOS
+
 * Incorporar segmentación de productos.
 * Analizar tendencias temporales.
 * Profundizar el análisis de conversión.
